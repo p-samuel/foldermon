@@ -9,3 +9,6 @@ FolderMon is a simple folder monitor that helps you keep track of changes within
 ## Usage
 1. Configure the folder path you want to monitor. You can set multiple folders to monitor.
 2. Select if you want track specific file types or all files (yes/no). You also can set multiple file extensions.
+
+## Support
+<img src="https://img.shields.io/badge/Windows-32%20%26%2064%20bits-green"></img>
